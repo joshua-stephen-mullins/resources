@@ -42,5 +42,5 @@ Version control system (resume.pdf, resumeFINAL.pdf)
 - Then follow the directions for whether or not you have an existing repo or not.
 
 ## Pushing
-- For your first push to a remote, do `git push -u origin master`
+- For your first push to a remote, do `git push -u origin main`
 - subsequent pushes in that branch name, do `git push`
